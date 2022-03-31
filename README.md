@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## A bit about me 😄
+#### A bit about me 😄
 
 I am full stack programmer currently working at Xpand-IT, with 5 years of experience.
 
